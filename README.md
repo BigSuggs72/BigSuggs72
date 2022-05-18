@@ -5,5 +5,7 @@
 <p align="left">
 </p>
 
-
+<a href="https://hiluan.dev/resume" target="_blank">
+      <img src="https://img.shields.io/static/v1?label=|&message=RESUME&color=23555f&style=plastic&logo=react&logo-color=white"/>
+  </a>
 
