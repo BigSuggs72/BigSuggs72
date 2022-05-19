@@ -42,7 +42,6 @@ I am a Full Stack Software Engineer who is inquisitive about how and why things 
 <img src="https://img.shields.io/badge/MongoDB-blue?style=plastic&logo=MongoDB" height=25>
 <img src="https://img.shields.io/badge/Express.js-blue?style=plastic&logo=Express" height=25>
 <img src="https://img.shields.io/badge/React-blue?style=plastic&logo=React" height=25>
-<img src="https://img.shields.io/badge/Node.js-blue?style=plastic&logo=Node.js" height=25>
-<img src="https://img.shields.io/badge/Visual_Studio-blue?style=plastic&logo=VisualStudio" height=25>
+<img src="https://img.shields.io/badge/Node.js-blue?style=plastic&logo=Node.js" height=25
 </p>
                     
