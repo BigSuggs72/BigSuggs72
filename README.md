@@ -34,5 +34,15 @@ I am a Full Stack Software Engineer who is inquisitive about how and why things 
   <p align="center">
 
     
-
+## Language and Tools:
+<p align="center">
+<img src="https://img.shields.io/badge/HTML5-blue?style=plastic&logo=html5" height=25>
+<img src="https://img.shields.io/badge/CSS3-blue?style=plastic&logo=css3" height=25>
+<img src="https://img.shields.io/badge/JavaScript-blue?style=plastic&logo=javascript" height=25>
+<img src="https://img.shields.io/badge/MongoDB-blue?style=plastic&logo=MongoDB" height=25>
+<img src="https://img.shields.io/badge/Express.js-blue?style=plastic&logo=Express" height=25>
+<img src="https://img.shields.io/badge/React-blue?style=plastic&logo=React" height=25>
+<img src="https://img.shields.io/badge/Node.js-blue?style=plastic&logo=Node.js" height=25>
+<img src="https://img.shields.io/badge/Visual_Studio-blue?style=plastic&logo=VisualStudio" height=25>
+</p>
                     
