@@ -34,7 +34,7 @@ I am a Full Stack Software Engineer who is inquisitive about how and why things 
         <br />
         <p align="left"> 
   <a href="https://vgtarian.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=yellow&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
         <p><strong>CSS3, HTML5</strong> - A simple API built to confirm if a food is strictly vegetarian!</p>
