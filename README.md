@@ -24,11 +24,11 @@ I am a Full Stack Software Engineer who is inquisitive about how and why things 
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
-    <img src="https://img.shields.io/static/v1?label=|&message=NODE.JS&color=4a935c&style=plastic&logo=node"/>
-    <img src="https://img.shields.io/static/v1?label=|&message=REACT.JS&color=4a935c&style=plastic&logo=react"/>
-    <img src="https://img.shields.io/static/v1?label=|&message=HTML5&color=23555f&style=plastic&logo=html5"/>
-    <img src="https://img.shields.io/static/v1?label=|&message=CSS3&color=285f65&style=plastic&logo=css3"/>
-    <img src="https://img.shields.io/static/v1?label=|&message=JAVASCRIPT&color=3c7f5d&style=plastic&logo=javascript"/>
-    <img src="https://img.shields.io/static/v1?label=|&message=MONGO-DB&color=cdd148&style=plastic&logo=mongodb"/>
-    <img src="https://img.shields.io/static/v1?label=|&message=GIT&color=cbb148&style=plastic&logo=git"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=REACT.JS&color=yellow&style=plastic&logo=react"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=HTML5&color=blue&style=plastic&logo=html5"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=CSS3&color=yellow&style=plastic&logo=css3"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=JAVASCRIPT&color=blue&style=plastic&logo=javascript"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=MONGO-DB&color=yellow&style=plastic&logo=mongodb"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=GIT&color=blue&style=plastic&logo=git"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=NODE.JS&color=yellow&style=plastic&logo=react"/>
   <p align="center">
