@@ -40,7 +40,7 @@ I am a Full Stack Software Engineer who is inquisitive about how and why things 
         <p><strong>CSS3, HTML5</strong> - A simple vegetarian API built to confirm if a food is strictly vegetarian!</p>
     </td>
   
-  
+  </table>
   
   
   
