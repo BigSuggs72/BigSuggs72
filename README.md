@@ -1,6 +1,4 @@
 <h1 align="center">Hi 👋, I'm Darrone</h1>
-<h3 align="center">I am a Software Engineer</h3>
-
 
 
 I have always been fascinated by the field of Technology and how things change daily.  During my tenure in this field, I have encountered many different challenges and provided several solutions.  Coding has always been an interest of mine by the mere details involved with creating and solving website/applications issues.
