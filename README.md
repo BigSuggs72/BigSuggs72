@@ -10,13 +10,13 @@ I am a Full Stack Software Engineer who is inquisitive about how and why things 
 <p align="center">
   <a href="https://dasdev.netlify.app/" target="_blank">
 <!--     <img src="https://img.shields.io/badge/Website-blue??style=plastic"/> -->
-   <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=23555f&style=plastic&logo=react&logo-color=blue"/>
+   <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=blue&style=plastic&logo=react&logo-color=blue"/>
   </a>
   <a href="https://www.linkedin.com/in/dasdev/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=LINKED-IN&color=yellow&style=plastic&logo=linkedin&logo-color=white"/>
   </a>
   <a href="https://twitter.com/dasdev_" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=TWITTER&color=23555f&style=plastic&logo=twitter&logo-color=white"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=TWITTER&color=blue&style=plastic&logo=twitter&logo-color=white"/>
   </a>
 </p>
 
