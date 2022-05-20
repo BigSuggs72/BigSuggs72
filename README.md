@@ -24,6 +24,21 @@ I am a Full Stack Software Engineer who is inquisitive about how and why things 
 <h1 align="center">Projects</h1>
 <table bordercolor="#66b2b2">
   
+  <tr>
+    <td width="50%" valign="top">
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
   
 
 <h3 align="center">Languages and Tools:</h3>
