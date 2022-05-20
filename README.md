@@ -13,7 +13,7 @@ I am a Full Stack Software Engineer who is inquisitive about how and why things 
    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=23555f&style=plastic&logo=react&logo-color=blue"/>
   </a>
   <a href="https://www.linkedin.com/in/dasdev/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=LINKED-IN&color=cdf998&style=plastic&logo=linkedin&logo-color=white"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=LINKED-IN&color=yellow&style=plastic&logo=linkedin&logo-color=white"/>
   </a>
   <a href="https://twitter.com/dasdev_" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=TWITTER&color=23555f&style=plastic&logo=twitter&logo-color=white"/>
