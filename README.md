@@ -39,8 +39,6 @@ I am a Full Stack Software Engineer who is inquisitive about how and why things 
       </p>
         <p><strong>CSS3, HTML5</strong> - A simple API built to confirm if a food is strictly vegetarian!</p>
     </td>
-  
-    
     
     <td width="50%" valign="top">
       <h3 align="center">Clickcleaners.co.uk</h3>
