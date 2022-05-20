@@ -26,7 +26,7 @@ I am a Full Stack Software Engineer who is inquisitive about how and why things 
   
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">KinsCuts.netlify.app</h3>
+      <h3 align="center">VGTARIAN</h3>
         <br />
 <!--         <a target="_blank" href="https://kinscuts.netlify.app">
             <img src="https://github.com/KingsOG/mediafilesforReadme/blob/main/Kinscut.gif" width="100%" alt="Barbershop website"/>
