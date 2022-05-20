@@ -40,9 +40,9 @@ I am a Full Stack Software Engineer who is inquisitive about how and why things 
         <p><strong>CSS3, HTML5</strong> - A simple API built to confirm if a food is strictly vegetarian!</p>
     </td>
   
-  </table>
-  
-  <td width="50%" valign="top">
+    
+    
+    <td width="50%" valign="top">
       <h3 align="center">Clickcleaners.co.uk</h3>
         <br />
       <a target="_blank" href="http://www.clickcleaners.co.uk">
@@ -61,6 +61,14 @@ I am a Full Stack Software Engineer who is inquisitive about how and why things 
          <p><strong>CSS3, HTML5</strong> - A commercial cleaning website I built for a client!</p>
     </td>
   </tr>
+  
+    
+    
+    
+    
+    
+  </table>
+  
   
   
   
