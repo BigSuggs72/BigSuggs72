@@ -29,11 +29,12 @@ I am a Full Stack Software Engineer who is inquisitive about how and why things 
     <td width="50%" valign="top">
       <h3 align="center">VGTARIAN</h3>
         <br />
-<!--         <a target="_blank" href="https://vgtarian.netlify.app"> -->
-            <img src="https://github.com/BigSuggs72/vegetarian-checker/blob/main/hpvgtarian.png" width="100%" alt="VGTarian website"/>
+<!--    <a target="_blank" href="https://vgtarian.netlify.app"> -->
+        <img src="https://github.com/BigSuggs72/vegetarian-checker/blob/main/hpvgtarian.png" width="100%" alt="VGTarian website"/>
         </a>
         <br />
         <p align="center"> 
+          
   <a href="https://vgtarian.netlify.app/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=yellow&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
