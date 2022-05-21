@@ -10,7 +10,6 @@ I am a Full Stack Software Engineer who is inquisitive about how and why things 
 <p align="center">
   
   <a href="https://dasdev.netlify.app/" target="_blank">
-<!--     <img src="https://img.shields.io/badge/Website-blue??style=plastic"/> -->
    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=blue&style=plastic&logo=react&logo-color=blue"/>
   </a>
   <a href="https://www.linkedin.com/in/dasdev/" target="_blank">
