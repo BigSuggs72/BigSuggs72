@@ -40,19 +40,16 @@ I am a Full Stack Software Engineer who is inquisitive about how and why things 
       </p>
         <p><strong>CSS3, HTML5</strong> - A simple API built to confirm if a food is strictly vegetarian!</p>
     </td>
-<!--     <td width="50%" valign="top">
-      <h3 align="center">Clickcleaners.co.uk</h3>
+   <td width="50%" valign="top">
+      <h3 align="center">Ayesha's Salon</h3>
         <br />
-      <a target="_blank" href="http://www.clickcleaners.co.uk">
-            <img src="https://github.com/KingsOG/mediafilesforReadme/blob/main/clickcleaners.gif" width="100%"  alt="Commercial cleaning website"/>
+      <a target="_blank" href="#">
+            <img src="https://github.com/BigSuggs72/salon/blob/main/images/main.jpg" width="100%"  alt="HairSalon"/>
         </a>
         <br />
         <p align="center">
           
-  <a href="https://github.com/kingsog" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
-  </a>
-  <a href="http://www.clickcleaners.co.uk" target="_blank">
+  <a href="https://aysalon.netlify.app/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
