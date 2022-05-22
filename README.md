@@ -82,7 +82,7 @@ I am a Full Stack Software Engineer who is inquisitive about how and why things 
 <h1 align=center> :fire: My Stats :</h1>
 
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=BigSuggs72&theme=navy-gear)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=BigSuggs72&theme=react)](https://git.io/streak-stats)
 
 <!--    yeblu -->
 <!--    navy-gear -->
