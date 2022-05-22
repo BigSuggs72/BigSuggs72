@@ -76,11 +76,12 @@ I am a Full Stack Software Engineer who is inquisitive about how and why things 
     <img src="https://img.shields.io/static/v1?label=|&message=NODE.JS&color=yellow&style=plastic&logo=react"/>
   <p align="center">
 
+ ---
     
  <div align="center">
 <h1 align=center> :fire: My Stats :</h1>
 
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=BigSuggs72&theme=solarized-dark)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=BigSuggs72&theme=navy-gear)](https://git.io/streak-stats)
 
  </div>
