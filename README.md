@@ -65,17 +65,6 @@ I am a Full Stack Software Engineer who is inquisitive about how and why things 
   </table>
   
   
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
     <img src="https://img.shields.io/static/v1?label=|&message=REACT.JS&color=yellow&style=plastic&logo=react"/>
