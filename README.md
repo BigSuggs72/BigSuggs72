@@ -18,10 +18,10 @@ I am a Full Stack Software Engineer who is inquisitive about how and why things 
   <a href="https://twitter.com/dasdev_" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=TWITTER&color=blue&style=plastic&logo=twitter&logo-color=white"/>
   
-  </a>
+<!--   </a>
   <a href="https://acrobat.adobe.com/link/review?uri=urn:aaid:scds:US:9046f300-3e3d-4f66-a758-0a2f97b51fb9" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=RESUME&color=yellow&style=plastic&logo=react&logo-color=white"/>
-  </a>
+  </a> -->
 </p>
 
 
