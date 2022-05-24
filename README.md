@@ -19,9 +19,9 @@ I am a Full Stack Software Engineer who is inquisitive about how and why things 
     <img src="https://img.shields.io/static/v1?label=|&message=TWITTER&color=blue&style=plastic&logo=twitter&logo-color=white"/>
   </a>
   </a>
-<!--   <a href="https://github.com/BigSuggs72/checklist/blob/main/SE%20-%20Resume.docx" target="_blank">
+  <a href="https://acrobat.adobe.com/link/track?uri=urn:aaid:scds:US:3f242c4f-9c44-4b23-baf7-21792faca1cf" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=RESUME&color=yellow&style=plastic&logo=twitter&logo-color=white"/>
-  </a> -->
+  </a>
 </p>
 
 
