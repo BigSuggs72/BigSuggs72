@@ -48,7 +48,7 @@ I am a Full Stack Software Engineer who is inquisitive about how and why things 
       <h3 align="center">Ayesha's Salon</h3>
         <br />
       <a target="_blank" href="#">
-            <img src="https://github.com/BigSuggs72/salon/blob/main/images/main.gif" width="100%" height="50%" alt="HairSalon"/>
+            <img src="https://github.com/BigSuggs72/salon/blob/main/images/main.png" width="100%" height="50%" alt="HairSalon"/>
         </a>
         <br />
         <p align="center">
