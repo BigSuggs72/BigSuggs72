@@ -17,10 +17,10 @@ I am a Full Stack Software Engineer who is inquisitive about how and why things 
   </a>
   <a href="https://twitter.com/dasdev_" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=TWITTER&color=blue&style=plastic&logo=twitter&logo-color=white"/>
-  </a>
+  
   </a>
   <a href="https://acrobat.adobe.com/link/track?uri=urn:aaid:scds:US:3f242c4f-9c44-4b23-baf7-21792faca1cf" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=RESUME&color=yellow&style=plastic&logo=twitter&logo-color=white"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=RESUME&color=yellow&style=plastic&logo=react&logo-color=white"/>
   </a>
 </p>
 
