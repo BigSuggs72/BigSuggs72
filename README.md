@@ -78,6 +78,7 @@ I am a Full Stack Software Engineer who is inquisitive about how and why things 
     <img src="https://img.shields.io/static/v1?label=|&message=MONGO-DB&color=yellow&style=plastic&logo=mongodb"/>
     <img src="https://img.shields.io/static/v1?label=|&message=GIT&color=blue&style=plastic&logo=git"/>
     <img src="https://img.shields.io/static/v1?label=|&message=NODE.JS&color=yellow&style=plastic&logo=react"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=EXPRESS&color=blue&style=plastic&logo=express"/>
   <p align="center">
 
  ---
