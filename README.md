@@ -90,7 +90,6 @@ I am a Full Stack Software Engineer who is inquisitive about how and why things 
 
 
 <!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=BigSuggs72&theme=cobalt)](https://git.io/streak-stats) -->
-   "https://github-readme-streak-stats.herokuapp.com?user=BigSuggs72&theme=monokai&date_format=j%20M%5B%20Y%5D"
 
 <!--    yeblu -->
 <!--    navy-gear -->
