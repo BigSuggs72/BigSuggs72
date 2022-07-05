@@ -90,6 +90,7 @@ I am a Full Stack Software Engineer who is inquisitive about how and why things 
 
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=BigSuggs72&theme=solarized-light)](https://git.io/streak-stats)
+   (https://user-images.githubusercontent.com/20955511/103045930-1501a000-458f-11eb-95e8-a96774ac37ec.png)
    
 
 <!--    yeblu -->
