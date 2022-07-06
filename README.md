@@ -91,8 +91,7 @@ I am a Full Stack Software Engineer who is inquisitive about how and why things 
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=BigSuggs72&theme=yeblu)](https://git.io/streak-stats)   
 
-   
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=BigSuggs72&theme=solarized-light)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=BigSuggs72&theme=solarized-light&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
    
 <!--    yeblu -->
 <!--    navy-gear -->
