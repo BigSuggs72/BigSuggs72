@@ -89,10 +89,7 @@ I am a Full Stack Software Engineer who is inquisitive about how and why things 
 <h1 align=center> :fire: My Stats :</h1>
 
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=BigSuggs72&theme=solarized-light&hide_border=true&date_format=%5BY%20%5DM%20j)](https://git.io/streak-stats) 
-
-   
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=BigSuggs72&theme=solarized-light&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=BigSuggs72&theme=solarized-light&hide_border=true&date_format=%5BY%20%5DM%20j)](https://git.io/streak-stats)
    
 <!--    yeblu -->
 <!--    navy-gear -->
