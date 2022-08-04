@@ -34,16 +34,16 @@ I am a Full Stack Software Engineer who is inquisitive about how and why things 
         <br />
    <a target="_blank" href="#">
 <!--         <img src="https://github.com/BigSuggs72/vegetarian-checker/blob/main/hpvgtarian.png" width="100%" alt="VGTarian website"/> -->
-        <img src="https://github.com/BigSuggs72/vegetarian-checker/blob/main/vgtarian.gif" width="100%" alt="VGTarian website"/>
+        <img src="https://github.com/BigSuggs72/presapp/blob/image/usflag.gif" width="100%" alt="US President website"/>
         </a>
         <br />
         <p align="center"> 
           
-  <a href="https://vgtarian.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=VISIT SITE&color=yellow&style=plastic&logo=wordpress&logo-color=white"/>
+  <a href="https://uspres.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=VISIT SITE&color=blue&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>CSS3, HTML5, JAVASCRIPT</strong> - A simple API built to confirm if a food is strictly vegetarian!</p>
+        <p><strong>CSS3, HTML5, JAVASCRIPT</strong> - A simple API server built that contains the US Presidents!</p>
     </td>
     
    <td width="50%" valign="top">
