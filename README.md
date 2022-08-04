@@ -34,7 +34,7 @@ I am a Full Stack Software Engineer who is inquisitive about how and why things 
         <br />
    <a target="_blank" href="#">
 <!--         <img src="https://github.com/BigSuggs72/vegetarian-checker/blob/main/hpvgtarian.png" width="100%" alt="VGTarian website"/> -->
-        <img src="https://github.com/BigSuggs72/presapp/blob/usflag.gif" width="100%" alt="US President website"/>
+        <img src="https://github.com/BigSuggs72/presapp/image/usflag.gif" width="100%" alt="US President website"/>
         </a>
         <br />
         <p align="center"> 
