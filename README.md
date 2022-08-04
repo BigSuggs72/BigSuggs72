@@ -61,8 +61,26 @@ I am a Full Stack Software Engineer who is inquisitive about how and why things 
       </p>
          <p><strong>CSS3, HTML5</strong> - A simple website project built from the ground up with floats!</p>
     </td>
+    
   </tr>
-  
+  <tr>
+   <td width="50%" valign="top">
+      <h3 align="center">Ayesha's Salon</h3>
+        <br />
+      <a target="_blank" href="#">
+<!--             <img src="https://github.com/BigSuggs72/salon/blob/main/images/main.png" width="100%" height="50%" alt="HairSalon"/> -->
+            <img src="https://github.com/BigSuggs72/salon/blob/main/images/main.gif" width="100%" height="50%" alt="HairSalon"/>
+        </a>
+        <br />
+        <p align="center">
+          
+  <a href="https://aysalon.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=VISIT SITE&color=blue&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
+         <p><strong>CSS3, HTML5</strong> - A simple website project built from the ground up with floats!</p>
+    </td>
+    </tr>
     
     
     
