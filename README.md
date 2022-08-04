@@ -45,21 +45,22 @@ I am a Full Stack Software Engineer who is inquisitive about how and why things 
       </p>
         <p><strong>CSS3, HTML5, JAVASCRIPT</strong> - A simple API built to confirm if a food is strictly vegetarian!</p>
     </td>
+    
    <td width="50%" valign="top">
-      <h3 align="center">Ayesha's Salon</h3>
+      <h3 align="center">Vegetarian</h3>
         <br />
-      <a target="_blank" href="#">
-<!--             <img src="https://github.com/BigSuggs72/salon/blob/main/images/main.png" width="100%" height="50%" alt="HairSalon"/> -->
-            <img src="https://github.com/BigSuggs72/salon/blob/main/images/main.gif" width="100%" height="50%" alt="HairSalon"/>
+   <a target="_blank" href="#">
+<!--         <img src="https://github.com/BigSuggs72/vegetarian-checker/blob/main/hpvgtarian.png" width="100%" alt="VGTarian website"/> -->
+        <img src="https://github.com/BigSuggs72/vegetarian-checker/blob/main/vgtarian.gif" width="100%" alt="VGTarian website"/>
         </a>
         <br />
-        <p align="center">
+        <p align="center"> 
           
-  <a href="https://aysalon.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=VISIT SITE&color=blue&style=plastic&logo=wordpress&logo-color=white"/>
+  <a href="https://vgtarian.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=VISIT SITE&color=yellow&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-         <p><strong>CSS3, HTML5</strong> - A simple website project built from the ground up with floats!</p>
+        <p><strong>CSS3, HTML5, JAVASCRIPT</strong> - A simple API built to confirm if a food is strictly vegetarian!</p>
     </td>
     
   </tr>
