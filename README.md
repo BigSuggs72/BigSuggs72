@@ -30,7 +30,7 @@ I am a Full Stack Software Engineer who is inquisitive about how and why things 
   
   <tr>
      <td width="50%" valign="top">
-      <h3 align="center">Vegetarian</h3>
+      <h3 align="center">US Presidents</h3>
         <br />
    <a target="_blank" href="#">
 <!--         <img src="https://github.com/BigSuggs72/vegetarian-checker/blob/main/hpvgtarian.png" width="100%" alt="VGTarian website"/> -->
