@@ -33,7 +33,6 @@ I am a Full Stack Software Engineer who is inquisitive about how and why things 
       <h3 align="center">US Presidents</h3>
         <br />
    <a target="_blank" href="#">
-<!--         <img src="https://github.com/BigSuggs72/vegetarian-checker/blob/main/hpvgtarian.png" width="100%" alt="VGTarian website"/> -->
         <img src="https://github.com/BigSuggs72/presapp/blob/main/image/usflag.gif" width="100%" alt="US President website"/>
         </a>
         <br />
