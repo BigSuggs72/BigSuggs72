@@ -47,10 +47,10 @@ I am a Full Stack Software Engineer who is inquisitive about how and why things 
     <p><strong>CSS3, HTML5, JAVASCRIPT</strong> - A simple API server built that contains the US Presidents!</p>
     </td>
     
-   <td width="50%" valign="top">
+    <td width="50%" valign="top">
       <h3 align="center">Vegetarian</h3>
         <br />
-   <a target="_blank" href="#">
+      <a target="_blank" href="#">
         <img src="https://github.com/BigSuggs72/vegetarian-checker/blob/main/vgtarian.gif" width="100%" height="50%" alt="VGTarian website"/>
         </a>
         <br />
