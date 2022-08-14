@@ -27,7 +27,6 @@ I am a Full Stack Software Engineer who is inquisitive about how and why things 
 
 <h1 align="center">Projects</h1>
 <table bordercolor="#66b2b2">
-  
   <tr>
      <td width="50%" valign="top">
      <h3 align="center">US Presidents</h3>
@@ -55,9 +54,9 @@ I am a Full Stack Software Engineer who is inquisitive about how and why things 
         <br />
         <p align="center"> 
           
-  <a href="https://vgtarian.netlify.app/" target="_blank">
+   <a href="https://vgtarian.netlify.app/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=VISIT SITE&color=yellow&style=plastic&logo=wordpress&logo-color=white"/>
-  </a>
+   </a>
       </p>
         <p><strong>CSS3, HTML5, JAVASCRIPT</strong> - A simple API app built to confirm if a food is strictly vegetarian!</p>
     </td>
