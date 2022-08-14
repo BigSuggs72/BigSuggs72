@@ -27,7 +27,7 @@ I am a Full Stack Software Engineer who is inquisitive about how and why things 
 
 <h1 align="center">Projects</h1>
 <table bordercolor="#66b2b2">
-  <tr>
+ <tr>
      <td width="50%" valign="top">
      <h3 align="center">US Presidents</h3>
       <br />
@@ -60,9 +60,9 @@ I am a Full Stack Software Engineer who is inquisitive about how and why things 
       </p>
         <p><strong>CSS3, HTML5, JAVASCRIPT</strong> - A simple API app built to confirm if a food is strictly vegetarian!</p>
     </td>
-  </tr>
+ </tr>
   
-  <tr>
+ <tr>
    <td width="50%" valign="top">
       <h3 align="center">Ayesha's Salon</h3>
         <br />
@@ -79,7 +79,7 @@ I am a Full Stack Software Engineer who is inquisitive about how and why things 
       </p>
          <p><strong>CSS3, HTML5</strong> - A simple website project built from the ground up with floats!</p>
     </td>
-    </tr>  
+  </tr>  
     
   </table>
   
