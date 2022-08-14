@@ -86,8 +86,7 @@ I am a Full Stack Software Engineer who is inquisitive about how and why things 
   </table>
   
   
-  
-  
+   
   
   
 <h3 align="center">Languages and Tools:</h3>
