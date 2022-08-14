@@ -24,6 +24,9 @@ I am a Full Stack Software Engineer who is inquisitive about how and why things 
   </a> -->
 </p>
 
+  
+  
+  
 
 <h1 align="center">Projects</h1>
 <table bordercolor="#66b2b2">
@@ -81,6 +84,10 @@ I am a Full Stack Software Engineer who is inquisitive about how and why things 
   </tr>  
     
   </table>
+  
+  
+  
+  
   
   
 <h3 align="center">Languages and Tools:</h3>
