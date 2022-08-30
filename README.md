@@ -18,6 +18,9 @@ I am a Full Stack Software Engineer who is inquisitive about how and why things 
   <a href="https://twitter.com/dasdev_" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=TWITTER&color=blue&style=plastic&logo=twitter&logo-color=white"/>
   </a>
+  <a href="https://angel.co/u/dasdev" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=ANGEL-LIST&color=yellow&style=plastic&logo=twitter&logo-color=white"/>
+  </a>
  </p>
 
   
