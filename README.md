@@ -48,7 +48,7 @@ I am a Full Stack Software Engineer who is inquisitive about how and why things 
       <h3 align="center">Vegetarian</h3>
         <br />
       <a target="_blank" href="#">
-        <img src="https://github.com/BigSuggs72/vegetarian-checker/blob/main/vgtarian.gif" width="100%" height="50%" alt="VGTarian website"/>
+        <img src="https://github.com/BigSuggs72/vegetarian/blob/main/veggie.png" width="100%" height="50%" alt="VGTarian website"/>
         </a>
         <br />
         <p align="center">  
