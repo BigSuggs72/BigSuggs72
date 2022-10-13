@@ -74,7 +74,7 @@ I am a Full Stack Software Engineer who is inquisitive about how and why things 
     <img src="https://img.shields.io/static/v1?label=|&message=VISIT SITE&color=blue&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-         <p><strong>CSS3, HTML5</strong> - A simple static website project built.</p>
+         <p><strong>CSS3, HTML5</strong> - A static website project built for a beauty salon.</p>
     </td>
   </tr>
   
