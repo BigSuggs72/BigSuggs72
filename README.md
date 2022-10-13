@@ -71,7 +71,7 @@ I am a Full Stack Software Engineer who is inquisitive about how and why things 
         <br />
         <p align="center">
           
-  <a href="https://aysalon.netlify.app/" target="_blank">
+  <a href="https://bpsalon.netlify.app/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=VISIT SITE&color=blue&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
