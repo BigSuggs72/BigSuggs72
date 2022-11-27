@@ -79,7 +79,7 @@ I am a Full Stack Software Engineer who is inquisitive about how and why things 
      <h3 align="center">Digital Library</h3>
       <br />
      <a target="_blank" href="#">
-     <img src="https://github.com/BigSuggs72/presapp/blob/main/image/USFlag.gif" width="100%" height="50%" alt="Digital Library website"/>
+     <img src="https://github.com/BigSuggs72/atrata/blob/main/image/books.jpg" width="100%" height="50%" alt="Digital Library website"/>
      </a>
      <br />
      <p align="center">
@@ -87,7 +87,7 @@ I am a Full Stack Software Engineer who is inquisitive about how and why things 
     <img src="https://img.shields.io/static/v1?label=|&message=VISIT SITE&color=blue&style=plastic&logo=wordpress&logo-color=white"/>
     </a>
     </p>
-    <p><strong>CSS3, HTML5, JAVASCRIPT</strong> - A simple API server built that contains the US Presidents!</p>
+    <p><strong>CSS3, HTML5, JAVASCRIPT</strong> - A full stack application created with fellow developers to log your personal library online.</p>
     </td>
   </tr>
   
