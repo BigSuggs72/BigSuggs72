@@ -78,7 +78,7 @@ I am a Full Stack Software Engineer who is inquisitive about how and why things 
      <h3 align="center">Digital Library</h3>
       <br />
      <a target="_blank" href="#">
-     <img src="https://github.com/BigSuggs72/libraryauth/blob/main/public/images/books.png" width="100%" height="50%" alt="Digital Library website"/>
+     <img src="https://github.com/BigSuggs72/libraryauth/blob/main/public/images/books.png" width="100%" height="248px" alt="Digital Library website"/>
      </a>
      <br />
      <p align="center">
