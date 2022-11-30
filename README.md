@@ -94,7 +94,7 @@ I am a Full Stack Software Engineer who is inquisitive about how and why things 
      <h3 align="center">Limited mobility</h3>
       <br />
      <a target="_blank" href="#">
-     <img src="https://github.com/BigSuggs72/onehhp/blob/main/public/image/mobex.jpg" width="100%" height="248px" alt="Limited mobility website"/>
+     <img src="https://github.com/BigSuggs72/onehhp/blob/main/public/image/mobex.png" width="100%" height=50%" alt="Limited mobility website"/>
      </a>
      <br />
      <p align="center">
