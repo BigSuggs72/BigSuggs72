@@ -33,9 +33,10 @@ I am a Full Stack Software Engineer who is inquisitive about how and why things 
      <td width="50%" valign="top">
       <h3 align="center">The Beauty Palace</h3>
         <br />
-      <a target="_blank" href="#">
-            <img src="https://github.com/BigSuggs72/salon/blob/main/images/salon.jpg" width="100%" height="248px" alt="HairSalon"/>
-        </a>
+      <a target="_blank" href="https://bpsalon.netlify.app/">
+    <img src="https://raw.githubusercontent.com/BigSuggs72/salon/main/images/salon.jpg" 
+         width="100%" height="248px" alt="HairSalon"/>
+  </a>
         <br />
         <p align="center">
   <a href="https://bpsalon.netlify.app/" target="_blank">
