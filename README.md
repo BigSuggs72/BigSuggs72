@@ -34,7 +34,7 @@ I am a Full Stack Software Engineer who is inquisitive about how and why things 
       <h3 align="center">The Beauty Palace</h3>
         <br />
   <a target="_blank" href="https://bpsalon.netlify.app/">
-    <img src="https://github.com/BigSuggs72/salon/main/images/salon.jpg" 
+    <img src="https://github.com/BigSuggs72/salon/blob/main/images/salon.jpg" 
          width="100%" height="248px" alt="HairSalon"/>
   </a>
         <br />
